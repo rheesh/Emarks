@@ -8,5 +8,4 @@ npm-debug.*
 *.mobileprovision
 *.pxd
 *.pxd/**/*
-android*.png
 *.jpg
