@@ -17,7 +17,7 @@ With markdown notes, you can create formated notes from simple text.
 ## Remarks
 
 As an example of using the [react-native-image-kit](https://github.com/rheesh/react-native-image-kit),
-This source will be opened. 
+this source was opened. 
 If you find the react-native-image-kit useful, [please purchase this app.](https://play.google.com/store/apps/details?id=com.snac.mdnote)
 (App Name : Emarks, Price : 0.99$)
 
