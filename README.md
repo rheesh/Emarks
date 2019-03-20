@@ -25,17 +25,13 @@ Or please support me with [a glass of beer :beer:](https://www.paypal.me/Seungho
 
 ## Screen Shot
 
-<img src="./assets/androidPhoneA.png" width="320"> 
+<img src="./assets/androidPhoneA.png" width="320"> <img src="./assets/androidPhoneB.png" width="320"> 
 
-![Phone Image #2](./assets/androidPhoneB.png)
+<img src="./assets/androidPhoneC.png" width="320"> <img src="./assets/androidPhoneD.png" width="320"> 
 
-![Phone Image #3](./assets/androidPhoneC.png) 
+<img src="./assets/androidTabletA.png" width="600"> 
 
-![Phone Image #4](./assets/androidPhoneD.png)
+<img src="./assets/androidTabletB.png" width="600"> 
 
-![Tablet Image #1](./assets/androidTabletA.png) 
-
-![Tablet Image #2](./assets/androidTabletB.png)
-
-![Tablet Image #3](./assets/androidTabletC.png)
+<img src="./assets/androidTabletC.png" width="600"> 
 
