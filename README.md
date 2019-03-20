@@ -21,6 +21,8 @@ this source was opened.
 If you find the react-native-image-kit useful, [please purchase this app.](https://play.google.com/store/apps/details?id=com.snac.mdnote)
 (App Name : Emarks, Price : 0.99$)
 
+Or please support me with [a glass of beer :beer:](https://www.paypal.me/SeunghoYi).  
+
 ## Screen Shot
 
 ![Phone Image #1](./assets/androidPhoneA.png) ![Phone Image #2](./assets/androidPhoneB.png)
