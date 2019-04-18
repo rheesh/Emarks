@@ -6,7 +6,7 @@
     "privacy": "unlisted",
     "sdkVersion": "31.0.0",
     "platforms": ["ios", "android"],
-    "version": "1.0.9",
+    "version": "1.0.16",
     "orientation": "default",
     "icon": "./assets/icon.png",
     "splash": {
@@ -37,7 +37,7 @@
         "READ_EXTERNAL_STORAGE",
         "WRITE_EXTERNAL_STORAGE"
       ],
-      "versionCode": 6,
+      "versionCode": 7,
       "icon": "./assets/icon.png"
     }
   }
